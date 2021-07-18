@@ -1,1 +1,1 @@
-# networking_practice
+# Networking practice scripts
